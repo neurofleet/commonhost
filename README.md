@@ -1,3 +1,7 @@
+> [!WARNING]
+> not operable yet.
+> version: 0.0.0 : there still is a lot of work left.
+
 # commonhost
 Make two devices believe they're sharing the same localhost.
 
