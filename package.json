@@ -1,0 +1,33 @@
+{
+  "name": "commonhost",
+  "version": "1.0.0",
+  "description": "make two devices share a localhost",
+  "main": "dist/start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neurofleet/commonhost.git"
+  },
+  "keywords": [
+    "localhost",
+    "network",
+    "bridge",
+    "vpn",
+    "nat",
+    "traversal",
+    "holepunching"
+  ],
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "typescript": "^5.7.2"
+  },
+  "author": "neurofleet",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/neurofleet/commonhost/issues"
+  },
+  "homepage": "https://github.com/neurofleet/commonhost#readme"
+}
