@@ -10,13 +10,13 @@ Why? Well, you can try to drop your firewalls, you can try to open some ports, y
 
 ## TODO/roadmap:
 
-[] implement ED25519 signature
-[] implement x25519 encryption
-[] implement dilithium signature
-[] implement kyber encryption
-[] support dns/dynamic dns (e.g. afraid.org)
-[] implement bridging over peer (a <-> b <-> c </> a, a <-(b)-> c)
-[] implement peer meshing
-[] improve network change detection and support re-icing.
-[] support fully bidirectional TCP ports
+- [ ] implement ED25519 signature
+- [ ] implement x25519 encryption
+- [ ] implement dilithium signature
+- [ ] implement kyber encryption
+- [ ] support dns/dynamic dns (e.g. afraid.org)
+- [ ] implement bridging over peer (a <-> b <-> c </> a, a <-(b)-> c)
+- [ ] implement peer meshing
+- [ ] improve network change detection and support re-icing.
+- [ ] support fully bidirectional TCP ports
 
